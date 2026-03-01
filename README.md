@@ -1,4 +1,8 @@
+check out [linescore.org](https://linescore.org/)
+see [github.com/p11y/wsb/](https://github.com/p11y/wsb/) for details on building out this project. currently running @ no costs.
 
+
+older --
 ## "Local LLM w/ RAG implementation" -- [local-llm](https://github.com/yobed/local-llm)
 * This project was a journey into local LLMs and RAG. I used **LangChain** community and data from my [github.com/yobed/wsb] wallstreebets sentiment data.
 * I did a deep dive into understanding how RAG works **(embeddings, vector storage, searches, cosine similarity, etc)**, and how it is implemented, allowing for context within the LLM model.
@@ -13,6 +17,5 @@
 * *WIP (Might go back and use a local llm for this)*
 
 
-## MLB
-linescore.org
+
 

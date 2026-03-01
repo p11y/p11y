@@ -1,6 +1,6 @@
 check out [linescore.org](https://linescore.org/)
 
-see [github.com/p11y/wsb/](https://github.com/p11y/wsb/) for details on building out this project. currently running @ no costs.
+see [github.com/p11y/mlb/](https://github.com/p11y/mlb/) for details on building out this project, via first draft python demo. currently running @ no costs.
 
 
 older --
